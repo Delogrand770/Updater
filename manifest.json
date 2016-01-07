@@ -1,0 +1,302 @@
+[
+	{
+		"file": "..\\manifest.json",
+		"hash": "80726281584bfcb7c816f9c73ed8f4b0"
+	},
+	{
+		"file": "..\\app\\app.html",
+		"hash": "feb4fbd513d524fe36f4764e1c9ed911"
+	},
+	{
+		"file": "..\\app\\icon.ico",
+		"hash": "382b209a27a7cabdd67441241e85bc80"
+	},
+	{
+		"file": "..\\app\\icon.png",
+		"hash": "8b9927935d9a8b7730e77d5fbdf5afe1"
+	},
+	{
+		"file": "..\\app\\updater.html",
+		"hash": "20aae7d189a3b553b708e1f2f0ddd392"
+	},
+	{
+		"file": "..\\nwjs\\package.json",
+		"hash": "e5dd2c7e3d646c0dc8347a14b127f1f2"
+	},
+	{
+		"file": "..\\app\\css\\app.css",
+		"hash": "51017df688a8885f6dc94f4b80aa3649"
+	},
+	{
+		"file": "..\\app\\css\\bootstrap-theme.min.css",
+		"hash": "46d96593303e4c8666f497bb7602c999"
+	},
+	{
+		"file": "..\\app\\js\\app.js",
+		"hash": "8f2a1c3f412696cef0e3b2dc9cf53bdb"
+	},
+	{
+		"file": "..\\app\\js\\updater.js",
+		"hash": "80a2e13ebcc3feaec8ed86c52ac65a7d"
+	},
+	{
+		"file": "..\\app\\js\\utility.js",
+		"hash": "c0b5510d4cddb45ca121e204cc553e8e"
+	},
+	{
+		"file": "..\\nwjs\\locales\\am.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\ar.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\bg.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\bn.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\ca.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\cs.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\da.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\de.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\el.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\en-GB.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\en-US.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\es-419.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\es.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\et.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\fa.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\fi.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\fil.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\fr.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\gu.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\hi.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\hr.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\hu.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\id.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\it.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\iw.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\ja.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\kn.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\ko.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\lt.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\lv.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\ml.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\mr.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\ms.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\nl.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\no.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\pl.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\pt-BR.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\pt-PT.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\ro.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\ru.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\sk.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\sl.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\sr.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\sv.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\sw.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\ta.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\te.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\th.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\tr.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\uk.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\vi.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\zh-CN.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\nwjs\\locales\\zh-TW.pak",
+		"hash": "7c321056f805aabd5a503821fa1994cd"
+	},
+	{
+		"file": "..\\app\\js\\npm\\dive.js",
+		"hash": "04f76ee3b5233a4b35cbe2e3a77d8d82"
+	},
+	{
+		"file": "..\\nwjs\\libEGL.dll",
+		"hash": "683e6db6aeb6fc3a59bf67413b2cf1f9"
+	},
+	{
+		"file": "..\\app\\css\\bootstrap.min.css",
+		"hash": "2f624089c65f12185e79925bc5a7fc42"
+	},
+	{
+		"file": "..\\nwjs\\ffmpegsumo.dll",
+		"hash": "b6839aac24b22d529b2e5d5487296071"
+	},
+	{
+		"file": "..\\nwjs\\libGLESv2.dll",
+		"hash": "5886265ffaa59cca40bb9ceb9f87c774"
+	},
+	{
+		"file": "..\\nwjs\\d3dcompiler_47.dll",
+		"hash": "b0ae3aa9dd1ebd60bdf51cb94834cd04"
+	},
+	{
+		"file": "..\\nwjs\\nwjc.exe",
+		"hash": "ce125ce1f771c35b38f290627651beee"
+	},
+	{
+		"file": "..\\nwjs\\nw.pak",
+		"hash": "30f985de20575e069a66f2787a41a028"
+	},
+	{
+		"file": "..\\nwjs\\icudtl.dat",
+		"hash": "ac8b45f4478efb25e978fcca2507ea01"
+	},
+	{
+		"file": "..\\nwjs\\pdf.dll",
+		"hash": "30885f97369b5053fcd261912deacb69"
+	},
+	{
+		"file": "..\\nwjs\\nw.exe",
+		"hash": "2485262f2de39ccb1a7cfe268cca4d78"
+	}
+]

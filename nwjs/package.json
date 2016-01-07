@@ -1,0 +1,19 @@
+{
+	"main": "../app/updater.html",
+	"name": "Updater",
+	"description": "Updater",
+	"version": "1.0.0",
+	"window": {
+		"title": "Updater",
+		"icon": "../app/icon.png",
+		"toolbar": false,
+		"frame": true,
+		"width": 400,
+		"height": 100,
+		"position": "center",
+		"min_width": 400,
+		"min_height": 100,
+		"resizable": true,
+		"transparent": false
+	}
+}

@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>Updater</title>
+<link href="./css/bootstrap.min.css" rel="stylesheet">
+<link href="./css/bootstrap-theme.min.css" rel="stylesheet">
+<link href="./css/app.css" rel="stylesheet">
+<script src="./js/utility.js"></script>
+<script src="./js/updater.js"></script>
+
+<script>
+function ini(){
+	UPDATER.ini('App Title','https://raw.githubusercontent.com/Gavin770/Updater/master/', 
+		function(){
+			UPDATER.loadMainApp('credits.html', 600, 800);
+		}
+	);
+}
+</script>
+
+</head>
+<body onload="ini()">
+
+<span id="apptitle"></span>
+<div class="progress">
+<div class="progress-bar progress-bar-striped active" role="progressbar" style="width:0%" id="pbar"></div>
+</div>
+<span id="steps">Step 1 of 3 - Checking local files</span>
+
+</body>
+</html>
